@@ -1,3 +1,7 @@
-.FormButtonSize {
-  width: 75px;
+.select {
+  min-width: 120px;
+}
+
+.gridItem {
+  text-align: center;
 }
